@@ -4,7 +4,7 @@
 ### Csrf Controller
 
 ```http
-  POST api/v1/csrf/create
+  GET api/v1/csrf/create
 ```
 #### Response
 ```http
